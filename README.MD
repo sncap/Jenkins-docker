@@ -27,7 +27,7 @@ To set up MAVEN_HOME and the Docker remote API:
  * Configure System
  * (Keep Git default)
  * Add Maven, untick “install automatically”, MAVEN_HOME: /usr/share/maven
- * Set `Docker URL` to `http://docker:2375` (see --add-host above)
+ * Set `Docker URL` to `http://docker:1234` (see --add-host above)
 
 And start adding your jobs.
 
